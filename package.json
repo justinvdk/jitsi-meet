@@ -43,6 +43,7 @@
     "@react-navigation/stack": "6.4.0",
     "@stomp/stompjs": "7.0.0",
     "@svgr/webpack": "6.3.1",
+    
     "@tensorflow/tfjs-backend-wasm": "3.13.0",
     "@tensorflow/tfjs-core": "3.13.0",
     "@vladmandic/human": "2.6.5",
@@ -67,7 +68,7 @@
     "js-md5": "0.6.1",
     "js-sha512": "0.8.0",
     "jwt-decode": "2.2.0",
-    "lib-jitsi-meet": "https://github.com/jitsi/lib-jitsi-meet/releases/download/v1859.0.0+9ff77a91/lib-jitsi-meet.tgz",
+    "lib-jitsi-meet": "https://github.com/jitsi/lib-jitsi-meet/releases/download/v1861.0.0+9c4db259/lib-jitsi-meet.tgz",
     "lodash-es": "4.17.21",
     "moment": "2.29.4",
     "moment-duration-format": "2.2.2",
